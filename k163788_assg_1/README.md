@@ -1,6 +1,6 @@
-# ASSIGNMENT 1 - MOCKUP DESIGN
+# WP Assignment 1 - Mockup Design
 
-> Link: https://kaymomin.github.io/Web-Programming-CS406/k163788_assg_1/
+## GitHub Page Link: https://kaymomin.github.io/Web-Programming-CS406/k163788_assg_1/
 
 ## Here is the mockup illustration of the desktop version of the site. 
 Your final result should look very close to this mockup.
